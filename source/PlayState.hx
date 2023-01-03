@@ -4519,7 +4519,7 @@ class PlayState extends MusicBeatState
 		combo = 0;
 		health -= daNote.missHealth * healthLoss;
 		
-		if(instakillOnMiss)
+		if(instakillOnMiss || SONG.song.toLowerCase() == "defeat")
 		{
 			vocals.volume = 0;
 			doDeathCheck(true);
