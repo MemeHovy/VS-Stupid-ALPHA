@@ -19,7 +19,7 @@ Mod includes
 
 * MyFnf - Director ![myfnf (1)](https://user-images.githubusercontent.com/113801267/210372700-06f4318e-6edc-4e28-b7f5-74a2a880d11c.png)
 * WarlyFarly_Unity - CO Director,also made some art ![warly (1)](https://user-images.githubusercontent.com/113801267/210372747-a6c6da81-2f80-41e4-a6c0-5a5fb25d602f.png)
-* Memehoovy - Programmer ![memehoovy (1)](https://user-images.githubusercontent.com/113801267/210433432-6fbe0868-c1db-4632-8084-47c8e5b51251.png)
+* Memehoovy - Programmer ![memehoovy](https://user-images.githubusercontent.com/113801267/210158222-33c4c26c-d1b0-46cc-a9bb-3dbfd92487d0.png)
 
 
 # Helped along the way
