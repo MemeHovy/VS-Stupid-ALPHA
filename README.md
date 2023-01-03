@@ -18,7 +18,7 @@ Mod includes
 # Creators
 
 * MyFnf - Director ![myfnf (1)](https://user-images.githubusercontent.com/113801267/210372700-06f4318e-6edc-4e28-b7f5-74a2a880d11c.png)
-* WarlyFarly_Unity - CO Director ![warly (1)](https://user-images.githubusercontent.com/113801267/210372747-a6c6da81-2f80-41e4-a6c0-5a5fb25d602f.png)
+* WarlyFarly_Unity - CO Director, drew some bubble stuff ![warly (1)](https://user-images.githubusercontent.com/113801267/210372747-a6c6da81-2f80-41e4-a6c0-5a5fb25d602f.png)
 
 # Helped along the way
 
