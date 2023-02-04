@@ -81,6 +81,13 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['VS Stupid Team'],
+			['MyFnf',    'fnf',    'Director of vs stupid',  'https://twitter.com/MyFnf_',	'ADD8E6'],
+			['MemeHoovy', 'meme',   'Programmer of vs stupid', 'https://twitter.com/meme_hoovy', 'ffffff'],
+			['Voosomni',  'VOO',    'Musician and Artist of vs stupid', '', 'FFA500'],
+			['WarlyFarly_Unity', 'unity', 'Concept Maker + Added Stickmans week' 'https://gamejolt.com/@WarlyFarly_Unity', 'FF0000'],
+			['IceTom', 'ice',     'Another Programmer of vs stupid',  'https://twitter.com/idioticIceTom',    'ffffff'],
+			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],
